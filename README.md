@@ -9,11 +9,7 @@
 
 # TECNOLOGIAS
 
-<img src="https://img.shields.io/badge/HTML5-FF00FF?style=for-the-badge&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-FFFF00?style=for-the-badge&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/BOOTSTRAP-00FF00?style=for-the-badge&logo=BOOSTRAP&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-B0E0E6?style=for-the-badge&logo=GIT&logoColor=white" />
-<img src="https://img.shields.io/badge/GITHUB-FF1493?style=for-the-badge&logo=GITHUB&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-FF00FF?style=for-the-badge&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-FFFF00?style=for-the-badge&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/BOOTSTRAP-00FF00?style=for-the-badge&logo=BOOSTRAP&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-B0E0E6?style=for-the-badge&logo=GIT&logoColor=white" /> <img src="https://img.shields.io/badge/GITHUB-FF1493?style=for-the-badge&logo=GITHUB&logoColor=white" />
 
 # REDES SOCIAIS
 
