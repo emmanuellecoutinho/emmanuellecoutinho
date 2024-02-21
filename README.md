@@ -1,5 +1,5 @@
 <h1> Sejam bem vindo </h1>
-<p align="center">Este perfil corresponde minha página</p>
+<p align="center" "black" >Este perfil corresponde minha página</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
