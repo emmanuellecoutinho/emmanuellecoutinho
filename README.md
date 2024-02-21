@@ -1,4 +1,4 @@
-<h1 align="center> Sejam bem vindo </h1>
+<h1"> Sejam bem vindo </h1>
 <p align="center">Este perfil corresponde minha página</p>
 
 <p align="center">
