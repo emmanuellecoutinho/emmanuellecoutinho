@@ -17,6 +17,13 @@
 
 # REDES SOCIAIS
 
+<img src="https://img.shields.io/badge/FACEBOOK-FF00FF?style=for-the-badge&logo=Codecov&logoColor=white" />
+<img src="https://img.shields.io/badge/INSTAGRAM-FFFF00?style=for-the-badge&logo=Codecov&logoColor=white" />
+<img src="https://img.shields.io/badge/TWINTER-00FF00?style=for-the-badge&logo=Codecov&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-B0E0E6?style=for-the-badge&logo=Codecov&logoColor=white" />
+<img src="https://img.shields.io/badge/YOUTUBE-FF1493?style=for-the-badge&logo=Codecov&logoColor=white" />
+
+
 
 
 
