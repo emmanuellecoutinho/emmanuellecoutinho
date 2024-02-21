@@ -7,9 +7,14 @@
   </a>
 </p>
 
-# tecnologias
+# TECNOLOGIAS
 
 <img src="https://img.shields.io/badge/HTML5-FF00FF?style=for-the-badge&logo=Codecov&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-FFFF00?style=for-the-badge&logo=Codecov&logoColor=white" />
+<img src="https://img.shields.io/badge/BOOTSTRAP-FFFF00?style=for-the-badge&logo=Codecov&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-FFFF00?style=for-the-badge&logo=Codecov&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-FFFF00?style=for-the-badge&logo=Codecov&logoColor=white" />
+
+
 
 
